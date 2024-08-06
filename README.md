@@ -1,10 +1,11 @@
 # Rust
 
-## Projetos
+## Projects
 
-* [Speecher com as vozes de MS Edge](./speecher/)
+* [(PT) Speecher com as vozes de MS Edge](./speecher/)
+* [(ES) Blog en MongoDB](./blog/)
 
-## Documentação
+## References
 
 * [Web oficial: Rust Language](https://www.rust-lang.org/)
 * [Documentação oficial: Rust Language](https://www.rust-lang.org/learn)
