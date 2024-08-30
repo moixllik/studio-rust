@@ -3,10 +3,12 @@
 ## Projects
 
 * [(PT) Speecher com as vozes de MS Edge](./speecher/)
-* [(ES) Blog en MongoDB](./blog/)
+* [(ES) Blog con MongoDB](./blog/)
+* [(EN) Compile executables for Alpine Linux](./alpine/)
+* [(EN) Worker of Cloudflare](./cloudflare/)
 
 ## References
 
-* [Web oficial: Rust Language](https://www.rust-lang.org/)
-* [Documentação oficial: Rust Language](https://www.rust-lang.org/learn)
-* [Wikipedia: Rust Language](https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o))
+* [Website: Rust Language](https://www.rust-lang.org/)
+* [Documentation: Rust Language](https://www.rust-lang.org/learn)
+* [Wikipedia: Rust Language](https://en.wikipedia.org/wiki/Rust_(programming_language))
